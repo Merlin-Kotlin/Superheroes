@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Superheroes</string>
+
+    <string name="hero1_name">Nick Fury</string>
+    <string name="hero1_description">Strategic genius who founded the Avengers Initiative and leads S.H.I.E.L.D.</string>
+
+    <string name="hero2_name">Black Widow</string>
+    <string name="hero2_description">Elite spy and master of hand-to-hand combat trained in the Red Room program.</string>
+
+    <string name="hero3_name">Black Panther</string>
+    <string name="hero3_description">King of Wakanda and protector of the most technologically advanced nation on Earth.</string>
+
+    <string name="hero4_name">Thor</string>
+    <string name="hero4_description">Asgardian god of thunder who wields the enchanted hammer Mjolnir.</string>
+
+    <string name="hero5_name">Iron Man</string>
+    <string name="hero5_description">Genius billionaire who built a powered suit of armor to protect the world.</string>
+
+    <string name="hero6_name">Captain Marvel</string>
+    <string name="hero6_description">One of the universe\'s most powerful heroes with the ability to fly and fire energy blasts.</string>
+
+    <string name="hero7_name">Spider-Man</string>
+    <string name="hero7_description">Friendly neighborhood hero with spider-like abilities and a strong moral compass.</string>
+
+    <string name="hero8_name">Doctor Strange</string>
+    <string name="hero8_description">Earth\'s Sorcerer Supreme who uses the mystic arts to protect reality itself.</string>
+</resources>
